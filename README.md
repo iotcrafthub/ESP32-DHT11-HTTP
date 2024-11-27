@@ -6,3 +6,9 @@ How to Send Sensor Data to a Web Server Using ESP32 and DHT11 - Full Tutorial wi
 [Video Tutorial](https://www.youtube.com/watch?v=4St1oqAZIQQ)
 
 [Website](https://iotcrafthub.com/how-to-build-a-simple-iot-temperature-monitoring-device-with-esp32/)
+
+#PHP API
+
+[GitHub Repo](https://github.com/iotcrafthub/SIMPLE-PHP-API)
+
+[Video Tutorial](https://iotcrafthub.com)
